@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">kantor</string>
+    <string-array name="waluty">
+        <item>Dolary</item>
+        <item>Euro</item>
+        <item>Funty</item>
+        <item>Jen</item>
+    </string-array>
+</resources>
